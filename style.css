@@ -55,3 +55,18 @@ body {
   border-radius: 20px;
   margin-bottom: 20px;
 }
+
+.page3,
+.page4 {
+  background: black;
+  color: white;
+}
+
+.page3 .photo,
+.page4 .photo {
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
